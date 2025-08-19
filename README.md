@@ -16,7 +16,6 @@ The analysis focuses on:
 
 Data coverage spans from **March 2007** up to **February 2025**.
 
----
 
 ## Objectives
 The main objectives of this analysis are to:
@@ -26,7 +25,6 @@ The main objectives of this analysis are to:
 4. **Assess the impact of special events** on mobile payments.  
 5. **Evaluate agent network expansion** relative to account and transaction growth.  
 
----
 
 ## Tools Used
 - **Excel**  
@@ -39,7 +37,6 @@ The main objectives of this analysis are to:
 - **Word/Markdown**  
   - Documentation and insights summary  
 
----
 
 ## Key Insights
 - **Long-term growth**: Accounts, agents, and transactions have all expanded, though **transaction values dipped in 2019 and 2022**, hinting at macroeconomic or policy shocks.  
@@ -48,14 +45,12 @@ The main objectives of this analysis are to:
 - **Special events**: No clear COVID-19 decline is visible (likely cushioned by fee waivers), but **2016–2017 saw unusual drops**, possibly linked to election-year uncertainty.  
 - **Agent network expansion**: Explosive early growth (2008–2009) reflects adoption momentum, while slower growth in later years suggests rising marginal acquisition costs.  
 
----
 
 ## Project Files
 - `Mobile Payments Data Analysis.xlsx` - Full Excel workbook (raw, pivots, dashboard) 
 - `Mobile_payments_clean_data.csv` - Cleaned dataset for analysis  
 - `insights_summary.md` - Written interpretation of findings  
 
----
 
 ## Contact
-Created by Naomi Wanjiru — Data Analyst (Economics & Statistics background).  
+Created by Naomi Wanjiru - Data Analyst (Economics & Statistics background).  
