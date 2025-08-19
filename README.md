@@ -3,7 +3,9 @@
 
 ## Description & Background
 This project analyzes **mobile money data from the Central Bank of Kenya (CBK)** to explore growth trends, usage patterns, seasonality and cashflow patterns.  
-Mobile payments have become a **key driver of financial inclusion** and economic activity in Kenya, transforming how individuals, households and businesses transact.  
+Mobile payments have become a **key driver of financial inclusion** and economic activity in Kenya, transforming how individuals, households and businesses transact.
+M-Pesa is the most popular payment method, followed by PayPal, Airtel and other alternative methods. These methods allow users to store money in a digital wallet, transfer funds, pay bills and also access microloans convinienetly using their phones.
+
 
 The analysis focuses on:
 - Registered mobile money accounts  
