@@ -1,7 +1,7 @@
 # Mobile_Payments_Analysis
 # Business Analysis of Mobile Payments in Kenya
 
-## 📌 Description & Background
+## Description & Background
 This project analyzes **mobile money data from the Central Bank of Kenya (CBK)** to explore growth trends, usage patterns, seasonality and cashflow patterns.  
 Mobile payments have become a **key driver of financial inclusion** and economic activity in Kenya, transforming how individuals, households and businesses transact.  
 
